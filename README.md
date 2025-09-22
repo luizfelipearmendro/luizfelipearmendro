@@ -8,8 +8,8 @@
 
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 💻 Foco em **C#, .NET e Desenvolvimento Web**  
-- 📊 Experiência também com **SQL Server, MySQL e Power BI**  
+- 💻 Alguns projetos **C#, .NET e Desenvolvimento Web**
+- 📊 Experiência também com **SQL Server, MySQL e Power BI**
 - 🌱 Aprendendo **Docker e boas práticas de arquitetura**  
 
 ---
