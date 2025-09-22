@@ -33,10 +33,10 @@
   <a href="https://instagram.com/aarmendro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="mailto:contato@luizarmendro" target="_blank">
+  <a href="mailto:luizarmendro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-dias-armendro" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-felipe-dias-armendro-07240a260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
