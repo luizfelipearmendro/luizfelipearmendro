@@ -2,10 +2,12 @@
 <br>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luiz-felipe-dias-armendro-07240a260/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipearmendro&layout=compact&langs_count=5&theme=tokyonight" />
-</p>
 
+<div style="width: 200px;">
+<a href="https://github.com/luizfelipearmendro/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipearmendro&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
