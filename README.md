@@ -8,24 +8,19 @@
 - 📊 Experiência também com **SQL Server, MySQL e Power BI**
 - 🌱 Aprendendo **Docker e boas práticas de arquitetura**  
 
----
 
-## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipearmendro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipearmendro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
----
 
-## 🛠️ Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,cs,dotnet,figma,mysql,netlify,visualstudio,vscode&theme=dark" />
   </a>
 </p>
 
----
 
 ## 📚 Atualmente aprendendo
 <p align="center">
@@ -33,9 +28,7 @@
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
 </p>
 
----
 
-## 📫 Onde me encontrar
 <p align="center">
   <a href="https://instagram.com/aarmendro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
