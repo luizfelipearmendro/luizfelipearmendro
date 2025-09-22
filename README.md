@@ -29,7 +29,7 @@
 
 ## 📚 Atualmente aprendendo
 <p align="center">
-  <img src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> 
+  <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/> 
   <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="50" height="50"/>
 </p>
 
