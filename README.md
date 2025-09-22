@@ -1,8 +1,4 @@
-<!-- Animação Snake -->
-![Snake animation](https://github.com/luizfelipearmendro/luizfelipearmendro/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Texto animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=F8F8F2&lines=Hello%2C+I'm+Luiz+Felipe;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![Snake animation](https://github.com/luizfelipearmendro/luizfelipearmendro/blob/output/github-contribution-grid-snake.svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hello%2C+my+name+is+Luiz+Felipe)](https://git.io/typing-svg)
 
 ---
 
