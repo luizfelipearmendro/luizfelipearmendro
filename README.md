@@ -14,3 +14,6 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,cs,dotnet,figma,mysql,netlify,visualstudio,vscode" />
   </a>
 </p>
+
+## Estou aprendendo
+<img loading="lazy" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/> <img loading="lazy" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>
