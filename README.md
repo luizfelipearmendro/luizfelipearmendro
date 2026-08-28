@@ -1,7 +1,7 @@
 ## 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,cs,dotnet,figma,mysql,netlify,visualstudio,vscode,github,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,cs,vue,vite,tailwind,ts,dotnet,figma,mysql,supabase,netlify,vercel,visualstudio,vscode,github,azure,py&theme=dark" />
   </a>
 </p>
 
